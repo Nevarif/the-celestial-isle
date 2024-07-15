@@ -13,3 +13,9 @@ class:
 # [[Warrior Champions]]
 
 A group of ancient warriors, tasked by gods with saving the entire plane.
+
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Warrior Champions")
+SORT file.name ASC
+```

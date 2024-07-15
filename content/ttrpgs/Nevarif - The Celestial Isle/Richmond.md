@@ -13,3 +13,9 @@ class:
 # [[Richmond]]
 
 Hometown of [[Glacier]] and Representative [[Kivyn]]
+
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Richmond")
+SORT file.name ASC
+```

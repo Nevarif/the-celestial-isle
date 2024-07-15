@@ -13,3 +13,9 @@ class:
 # [[BludRock]]
 
 Hometown of [[Bebe]] and Representative [[Schlorp]]
+
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"BludRock")
+SORT file.name ASC
+```

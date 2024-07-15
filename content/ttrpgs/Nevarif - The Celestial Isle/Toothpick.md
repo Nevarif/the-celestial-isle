@@ -1,7 +1,7 @@
 ---
 type: NPC
 faction: 
-location: 
+location: Smallton Farms
 world: Nevarif - The Celestial Isle
 campaign: Nevarif - The Celestial Isle
 date: 2024-07-14

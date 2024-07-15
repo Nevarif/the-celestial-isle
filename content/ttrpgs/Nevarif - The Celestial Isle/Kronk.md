@@ -1,6 +1,6 @@
 ---
 type: NPC
-faction: 
+faction: Knights of Reverence
 location: 
 world: Nevarif - The Celestial Isle
 campaign: Nevarif - The Celestial Isle

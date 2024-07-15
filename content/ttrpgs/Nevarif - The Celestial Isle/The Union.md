@@ -12,3 +12,8 @@ class:
 ---
 # [[The Union]]
 
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Union")
+SORT file.name ASC
+```

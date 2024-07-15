@@ -13,3 +13,9 @@ class:
 # [[the winners]]
 
 [[Bebe]], [[Lariel]], [[Glacier]], and [[Astra]]
+
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"the winners")
+SORT file.name ASC
+```

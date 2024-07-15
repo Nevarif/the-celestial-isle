@@ -16,3 +16,8 @@ Once a humble family farm, Smallton Farms is now an industrial powerhouse supply
 
 It is alleged that The Smalltons abuse Halfling and [[Kobold]] labour.
 
+```dataview
+table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
+WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Smallton Farms")
+SORT file.name ASC
+```
