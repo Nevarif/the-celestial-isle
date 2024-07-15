@@ -13,3 +13,8 @@ class:
 # [[The Blinkertons]]
 
 A private intelligence agency often used by [[The Empire]]. It is rumoured that use dubious means to accomplish their tasks.
+
+## NPC's in The Blinkertons 
+
+| File | Description |
+| ---- | ----------- |

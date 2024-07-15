@@ -12,8 +12,9 @@ class:
 ---
 # [[The Village of Halflings and Kobolds]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Village of Halflings and Kobolds")
-SORT file.name ASC
-```
+## NPC's in The Village of Halflings and Kobolds 
+
+| File                                                                      | Description     |
+| ------------------------------------------------------------------------- | --------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Toothpick.md\|Toothpick]]           | a village elder |
+| [[ttrpgs/Nevarif - The Celestial Isle/Wally Williams.md\|Wally Williams]] | \-              |

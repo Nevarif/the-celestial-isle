@@ -13,9 +13,7 @@ class:
 # [[Elderbarough]]
 
 Hometown of [[Lariel]] and Representative [[Karin]]
+## NPC's in Elderbarough 
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Elderbarough")
-SORT file.name ASC
-```
+| File | Description |
+| ---- | ----------- |

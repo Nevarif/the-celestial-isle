@@ -14,8 +14,9 @@ class:
 
 [[Bebe]], [[Lariel]], [[Glacier]], and [[Astra]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"the winners")
-SORT file.name ASC
-```
+| File                                                        | Description                                                                                                     |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Astra.md\|Astra]]     | Deeply pious and a bit naive goody two shoes moon cleric                                                        |
+| [[ttrpgs/Nevarif - The Celestial Isle/Bebe.md\|Bebe]]       | Girlish little kid who loves violence :)                                                                        |
+| [[ttrpgs/Nevarif - The Celestial Isle/Glacier.md\|Glacier]] | Spoiled rich kid, think of himself very wise and all knowing. Seeking enlightenment in very materialistic world |
+| [[ttrpgs/Nevarif - The Celestial Isle/Lariel.md\|Lariel]]   | Book smart, know it all stepping into the real world for the first time                                         |

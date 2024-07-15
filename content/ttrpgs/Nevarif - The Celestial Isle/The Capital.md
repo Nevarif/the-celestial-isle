@@ -14,8 +14,8 @@ class:
 
 The capital city of [[The Empire]].
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Capital")
-SORT file.name ASC
-```
+## NPC's in The Capital 
+
+| File                                                                          | Description |
+| ----------------------------------------------------------------------------- | ----------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Emperor New Name.md\|Emperor New Name]] |             |

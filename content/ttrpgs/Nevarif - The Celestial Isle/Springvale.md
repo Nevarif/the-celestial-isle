@@ -14,8 +14,7 @@ class:
 
 Hometown of [[Astra]] and Representative [[Zumpetor]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Springvale")
-SORT file.name ASC
-```
+## NPC's in Springvale 
+
+| File | Description |
+| ---- | ----------- |

@@ -14,8 +14,8 @@ class:
 
 A group of ancient warriors, tasked by gods with saving the entire plane.
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Warrior Champions")
-SORT file.name ASC
-```
+## NPC's in Warrior Champions 
+
+| File                                                  | Description                          |
+| ----------------------------------------------------- | ------------------------------------ |
+| [[ttrpgs/Nevarif - The Celestial Isle/Luna.md\|Luna]] | Ancient warrior in the form of a cat |

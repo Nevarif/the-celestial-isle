@@ -11,9 +11,7 @@ gender:
 class:
 ---
 # [[Gods]]
+## NPC's in Gods
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Gods")
-SORT file.name ASC
-```
+| File | Description |
+| ---- | ----------- |

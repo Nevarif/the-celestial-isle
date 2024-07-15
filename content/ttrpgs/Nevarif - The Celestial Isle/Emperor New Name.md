@@ -1,7 +1,7 @@
 ---
 type: NPC
 faction: The Empire
-location: 
+location: The Capital
 world: Nevarif - The Celestial Isle
 campaign: Nevarif - The Celestial Isle
 date: 2024-07-14

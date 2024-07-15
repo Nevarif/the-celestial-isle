@@ -1,5 +1,5 @@
 ---
-type: PC
+type: NPC
 faction: The Smalltons
 location: Smallton Farms
 world: Nevarif - The Celestial Isle

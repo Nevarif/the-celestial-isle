@@ -12,8 +12,9 @@ class:
 ---
 # [[The Union]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Union")
-SORT file.name ASC
-```
+## NPC's in The Union 
+
+| File                                                                      | Description          |
+| ------------------------------------------------------------------------- | -------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Leo.md\|Leo]]                       | A young brash kobold |
+| [[ttrpgs/Nevarif - The Celestial Isle/Wally Williams.md\|Wally Williams]] | \-                   |

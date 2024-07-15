@@ -13,9 +13,10 @@ class:
 # [[Knights of Reverence]]
 
 The faction of local and regional knights that take up jobs to support [[The Empire]] and its' subjects.
+## NPC's in Knights of Reverence 
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Knights of Reverence")
-SORT file.name ASC
-```
+| File                                                    | Description                                                     |
+| ------------------------------------------------------- | --------------------------------------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Kronk.md\|Kronk]] | Super chill and simple dude that likes to work out and help out |
+
+`

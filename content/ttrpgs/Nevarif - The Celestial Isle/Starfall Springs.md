@@ -23,8 +23,10 @@ At the most recent festival [[the winners]] faced off against representatives fr
 [[Kivyn]] From [[Richmond]]
 [[Karin]] from [[Eldarbarough]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Starfall Springs")
-SORT file.name ASC
-```
+## NPC's in Starfall Springs 
+
+| File                                                          | Description            |
+| ------------------------------------------------------------- | ---------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Karin.md\|Karin]]       | fun, magic, silly      |
+| [[ttrpgs/Nevarif - The Celestial Isle/Showzy.md\|Showzy]]     | A charismatic orc bard |
+| [[ttrpgs/Nevarif - The Celestial Isle/Zumpetor.md\|Zumpetor]] | Proud, nice slick      |

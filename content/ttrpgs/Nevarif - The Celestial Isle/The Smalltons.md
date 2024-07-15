@@ -14,8 +14,10 @@ class:
 
 Family owned business powerhouse headed by [[Ma Smallton]]. Consists of [[Ma Smallton]], [[Pa Smallton]], and [[Dalton Smallton]]
 
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Smalltons")
-SORT file.name ASC
-```
+## NPC's in The Smalltons 
+
+| File                                                                        | Description                     |
+| --------------------------------------------------------------------------- | ------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Dalton Smallton.md\|Dalton Smallton]] | A young eager helpful dwarf     |
+| [[ttrpgs/Nevarif - The Celestial Isle/Ma Smallton.md\|Ma Smallton]]         | A small sweet elder dwarf       |
+| [[ttrpgs/Nevarif - The Celestial Isle/Pa Smallton.md\|Pa Smallton]]         | A sweet chair bound elder dwarf |
