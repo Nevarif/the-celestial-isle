@@ -18,10 +18,13 @@ There is an annual Golden Moon Festival.
 
 At the most recent festival [[the winners]] faced off against representatives from their own towns that they have never met before.
 
-[[Zumpetor]] from [[Springvale]]
-[[Schlorp]] From [[BludRock]]
-[[Kivyn]] From [[Richmond]]
-[[Karin]] from [[Eldarbarough]]
+[[Zumpetor]] from [[Springvale]].
+
+[[Schlorp]] From [[BludRock]].
+
+[[Kivyn]] From [[Richmond]].
+
+[[Karin]] from [[Elderbarough]].
 
 ## NPC's in Starfall Springs 
 

@@ -14,3 +14,4 @@ class: Monk
 
 From [[Richmond]]
 Is on a search for meaning 
+![[glacier1.jpeg|300]]

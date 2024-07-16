@@ -12,10 +12,10 @@ Officiating the [[Golden Moon Festival]] was [[Showzy]]. While Emissary [[Engelf
 
 [[the winners]] joined the festival's competition to try and win the grand prize, a rock that look's similar to the group's [[Moon Stones]]. The competition had representatives from each of [[the winners]]' hometowns. Strangely, no one could recognize any of them. 
 
-[[Zumpetor]] from [[Springvale]]
-[[Schlorp]] From [[BludRock]]
-[[Kivyn]] From [[Richmond]]
-[[Karin]] from [[Elderbarough]]
+[[Zumpetor]] from [[Springvale]].
+[[Schlorp]] From [[BludRock]].
+[[Kivyn]] From [[Richmond]].
+[[Karin]] from [[Elderbarough.]]
 
 
 The competition measured feats of Strength, Agility, Cunning, Beauty, and Talent and used ancient control magic to keep the [[monsters/5e/Awakened Tree|Awakened Tree]], [[monsters/5e/Giant Centipede|Giant Centipede]], and [[monsters/5e/Goblin|Goblin]] obedient. Each contestant was equipped with 2 potions of their choice provided by Jerry "[[Jingle]]" Jackson, a traveling Dwarf merchant known to have the most rare and random items.
