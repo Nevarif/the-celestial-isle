@@ -60,7 +60,7 @@ damage_resistances: Fire (Hellish Resistance)
 damage_immunities: 
 condition_immunities: 
 senses: "darkvision 60ft, Passive Perception 12, Passive Investigation 11, Passive Insight 14"
-languages: 
+languages: Celestial, Common, Elvish, Infernal
 cr: 
 traits:
   - []

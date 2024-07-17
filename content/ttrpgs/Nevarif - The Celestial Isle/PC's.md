@@ -13,40 +13,10 @@ class:
 # [[PC's]]
 
 ```statblock
-name: Astra Sterling
-size: 
-type: 
-subtype: 
-alignment: 
-ac: 12
-hp: 15
-hit_dice: 
-speed: "30 ft"
-stats: [8, 10, 13, 13, 15, 16]
-saves:
-  - strength: -1
-  - dexterity +0
-  - constitution: +1
-  - intelligence: +1
-skillsaves:
-  - wisdom: +4
-  - charisma: +5
-damage_vulnerabilities: 
-damage_resistances: Fire (Hellish Resistance)
-damage_immunities: 
-condition_immunities: 
-senses: "darkvision 60ft, Passive Perception 12, Passive Investigation 11, Passive Insight 14"
-languages: 
-cr: 
-traits:
-  - []
-spells:
-  - description
-  - spell level: spell-list
-actions:
-  - []
-legendary_actions:
-  - []
-reactions:
-  - []
+
 ```
+[![|160](https://www.dndbeyond.com/avatars/39554/979/1581111423-117462931.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)](https://www.dndbeyond.com/characters/117462931) [![|160](https://www.dndbeyond.com/avatars/40207/914/1581111423-118375931.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)](https://www.dndbeyond.com/characters/118375931/ZUXEP7)
+
+
+
+
