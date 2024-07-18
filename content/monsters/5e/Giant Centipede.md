@@ -15,3 +15,8 @@ tags:
 source: "Basic Rules v1: 23, HotDQ supplement: 9, Monster Manual: 323"
 url: ""
 ---
+
+
+```statblock
+monster: Giant Centipede
+```

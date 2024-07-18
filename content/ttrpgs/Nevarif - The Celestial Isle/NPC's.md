@@ -13,71 +13,74 @@ class:
 # [[NPC's]]
 
 ## All NPC's
-```dataview
-LIST 
-FROM "ttrpgs/Nevarif - The Celestial Isle"
 
-WHERE type = "NPC"
-```
+- [[ttrpgs/Nevarif - The Celestial Isle/Dalton Smallton.md|Dalton Smallton]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Emperor New Name.md|Emperor New Name]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Engelfort.md|Engelfort]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Karin.md|Karin]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Kivyn.md|Kivyn]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Kronk.md|Kronk]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Leo.md|Leo]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Luna.md|Luna]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Ma Smallton.md|Ma Smallton]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Pa Smallton.md|Pa Smallton]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Schlorp.md|Schlorp]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Showzy.md|Showzy]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Toothpick.md|Toothpick]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Wally Williams.md|Wally Williams]]
+- [[ttrpgs/Nevarif - The Celestial Isle/Zumpetor.md|Zumpetor]]
 
 ## NPC's by Location
 
 ### [[BludRock]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"BludRock")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
 ### [[Elderbarough]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Elderbarough")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
 ### [[Richmond]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Richmond")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
 ### [[Smallton Farms]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Smallton Farms")
-SORT file.name ASC
-```
+
+| File                                                                        | Description                     |
+| --------------------------------------------------------------------------- | ------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Dalton Smallton.md\|Dalton Smallton]] | A young eager helpful dwarf     |
+| [[ttrpgs/Nevarif - The Celestial Isle/Leo.md\|Leo]]                         | A young brash kobold            |
+| [[ttrpgs/Nevarif - The Celestial Isle/Ma Smallton.md\|Ma Smallton]]         | A small sweet elder dwarf       |
+| [[ttrpgs/Nevarif - The Celestial Isle/Pa Smallton.md\|Pa Smallton]]         | A sweet chair bound elder dwarf |
 ### [[Springvale]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Springvale")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
 ### [[Starfall Springs]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"Starfall Springs")
-SORT file.name ASC
-```
+
+| File                                                          | Description            |
+| ------------------------------------------------------------- | ---------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Karin.md\|Karin]]       | fun, magic, silly      |
+| [[ttrpgs/Nevarif - The Celestial Isle/Showzy.md\|Showzy]]     | A charismatic orc bard |
+| [[ttrpgs/Nevarif - The Celestial Isle/Zumpetor.md\|Zumpetor]] | Proud, nice slick      |
 ### [[The Capital]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Capital")
-SORT file.name ASC
-```
+
+| File                                                                          | Description |
+| ----------------------------------------------------------------------------- | ----------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Emperor New Name.md\|Emperor New Name]] |             |
 ### [[The Village of Halflings and Kobolds]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Village of Halflings and Kobolds")
-SORT file.name ASC
-```
+
+| File                                                                      | Description     |
+| ------------------------------------------------------------------------- | --------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Toothpick.md\|Toothpick]]           | a village elder |
+| [[ttrpgs/Nevarif - The Celestial Isle/Wally Williams.md\|Wally Williams]] | \-              |
 
 ## NPC's by faction
 ### [[Gods]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Gods")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
+
 ### [[Knights of Reverence]]
 ```dataview
 table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
@@ -85,38 +88,41 @@ WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Kn
 SORT file.name ASC
 ```
 ### [[The Blinkertons]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Blinkertons")
-SORT file.name ASC
-```
+
+| File | Description |
+| ---- | ----------- |
+
 ### [[The Empire]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Empire")
-SORT file.name ASC
-```
+
+| File                                                                          | Description            |
+| ----------------------------------------------------------------------------- | ---------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Emperor New Name.md\|Emperor New Name]] |                        |
+| [[ttrpgs/Nevarif - The Celestial Isle/Engelfort.md\|Engelfort]]               | Emissary of the Empire |
+
 ### [[The Smalltons]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Smalltons")
-SORT file.name ASC
-```
+
+| File                                                                        | Description                     |
+| --------------------------------------------------------------------------- | ------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Dalton Smallton.md\|Dalton Smallton]] | A young eager helpful dwarf     |
+| [[ttrpgs/Nevarif - The Celestial Isle/Ma Smallton.md\|Ma Smallton]]         | A small sweet elder dwarf       |
+| [[ttrpgs/Nevarif - The Celestial Isle/Pa Smallton.md\|Pa Smallton]]         | A sweet chair bound elder dwarf |
 ### [[The Union]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"The Union")
-SORT file.name ASC
-```
+
+| File                                                                      | Description          |
+| ------------------------------------------------------------------------- | -------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Leo.md\|Leo]]                       | A young brash kobold |
+| [[ttrpgs/Nevarif - The Celestial Isle/Wally Williams.md\|Wally Williams]] | \-                   |
 ### [[the winners]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"PC") or contains(type,"location") and contains(faction,"the winners")
-SORT file.name ASC
-```
+
+| File                                                        | Description                                                                                                     |
+| ----------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [[ttrpgs/Nevarif - The Celestial Isle/Astra.md\|Astra]]     | Deeply pious and a bit naive goody two shoes moon cleric                                                        |
+| [[ttrpgs/Nevarif - The Celestial Isle/Bebe.md\|Bebe]]       | Girlish little kid who loves violence :)                                                                        |
+| [[ttrpgs/Nevarif - The Celestial Isle/Glacier.md\|Glacier]] | Spoiled rich kid, think of himself very wise and all knowing. Seeking enlightenment in very materialistic world |
+| [[ttrpgs/Nevarif - The Celestial Isle/Lariel.md\|Lariel]]   | Book smart, know it all stepping into the real world for the first time                                         |
+
 ### [[Warrior Champions]]
-```dataview
-table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
-WHERE contains(type,"NPC") or contains(type,"location") and contains(faction,"Warrior Champions")
-SORT file.name ASC
-```
+
+| File                                                  | Description                          |
+| ----------------------------------------------------- | ------------------------------------ |
+| [[ttrpgs/Nevarif - The Celestial Isle/Luna.md\|Luna]] | Ancient warrior in the form of a cat |

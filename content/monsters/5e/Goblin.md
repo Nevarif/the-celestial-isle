@@ -15,3 +15,8 @@ tags:
 source: "Basic Rules v1: 30, Monster Manual: 166"
 url: ""
 ---
+
+
+```statblock
+monster: Goblin
+```

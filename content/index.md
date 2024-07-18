@@ -1,7 +1,7 @@
 ---
 title: The Journey Begins
 ---
-[[NPCs]] [[PC's]] [[Maps]]
+[[NPC's]] [[PC's]] [[Maps]]
 
 
  [[Moon Stones]] fly down from the sky to [[Bebe]], [[Lariel]], [[Glacier]], and [[Astra]], individually.
@@ -20,7 +20,7 @@ Officiating the [[Golden Moon Festival]] was [[Showzy]]. While Emissary [[Engelf
 [[Karin]] from [[Elderbarough]]
 
 
-The competition measured feats of Strength, Agility, Cunning, Beauty, and Talent and used ancient control magic to keep the [[monsters/5e/Awakened Tree|Awakened Tree]], [[monsters/5e/Giant Centipede|Giant Centipede]], and [[monsters/5e/Goblin|Goblin]] obedient. Each contestant was equipped with 2 potions of their choice provided by Jerry "[[Jingle]]" Jackson, a traveling Dwarf merchant known to have the most rare and random items.
+The competition measured feats of Strength, Agility, Cunning, Beauty, and Talent and used ancient control magic to keep the [[Awakened Tree]], [[monsters/5e/Giant Centipede|Giant Centipede]], and [[monsters/5e/Goblin|Goblin]] obedient. Each contestant was equipped with 2 potions of their choice provided by Jerry "[[Jingle]]" Jackson, a traveling Dwarf merchant known to have the most rare and random items.
 
 Strength was determined by measuring the impact of a single attack on the monster of the contestants choosing.
 
