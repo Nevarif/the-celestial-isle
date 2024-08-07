@@ -22,11 +22,16 @@ Spoiled rich kid, think of himself very wise and all knowing. Seeking enlightenm
 
 Deeply pious and a bit naive goody two shoes moon cleric
 <br><br><br>
+
 <span class="rightimg"><span class="tinyimg"> ![[636377874101155021.jpeg]]</span></span>
 ## [[Lariel]] Real
 
 Book smart, know it all stepping into the real world for the first time
 <br><br><br>
+<span class="rightimg"><span class="tinyimg"> ![[636377837087207872.jpeg]]</span></span>
+## [[Benedil]] Dumster
+
+aa
 
 
 

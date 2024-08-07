@@ -1,0 +1,1 @@
+<span class="rightimg"><span class="mediumimg"> ![[starfall_springs 1.png]]</span></span>

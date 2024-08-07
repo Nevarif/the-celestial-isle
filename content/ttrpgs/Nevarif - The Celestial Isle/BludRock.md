@@ -11,7 +11,7 @@ gender:
 class:
 ---
 # [[BludRock]]
-
+<span class="rightimg"><span class="mediumimg"> ![[bludrock.png]]</span></span>
 Hometown of [[Bebe]] and Representative [[Schlorp]]
 
 ## NPC's in BludRock 

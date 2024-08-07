@@ -12,4 +12,4 @@ class: Monk
 ---
 # [[Toothpick]]
 
-Toothpick is a village elder who has raised and trained the young Kobold orphans at [[The Village of Halflings and Kobolds]].
+Toothpick is a village elder who has raised and trained the young Kobold orphans at [[Half Bold Village]].

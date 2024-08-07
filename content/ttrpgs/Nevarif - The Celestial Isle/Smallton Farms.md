@@ -11,6 +11,7 @@ gender:
 class:
 ---
 # [[Smallton Farms]]
+<span class="rightimg"><span class="mediumimg"> ![[smallton_farms.png]]</span></span>
 
 Once a humble family farm, Smallton Farms is now an industrial powerhouse supplying its parent company, [[Smallmart]] with most of its supply. Both companies are owned by [[Ma Smallton]] and [[Pa Smallton]]
 

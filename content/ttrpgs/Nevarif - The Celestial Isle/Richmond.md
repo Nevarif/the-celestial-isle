@@ -11,7 +11,7 @@ gender:
 class:
 ---
 # [[Richmond]]
-
+<span class="rightimg"><span class="mediumimg"> ![[richmond.png]]</span></span>
 Hometown of [[Glacier]] and Representative [[Kivyn]]
 ## NPC's in Richmond
 

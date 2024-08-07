@@ -64,7 +64,7 @@ table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
 WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Capital")
 SORT file.name ASC
 ```
-### [[The Village of Halflings and Kobolds]]
+### [[Half Bold Village]]
 ```dataview
 table description as "Description" from "ttrpgs/Nevarif - The Celestial Isle"
 WHERE contains(type,"NPC") or contains(type,"faction") and contains(location,"The Village of Halflings and Kobolds")

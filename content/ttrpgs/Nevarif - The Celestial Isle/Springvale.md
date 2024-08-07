@@ -12,6 +12,7 @@ class:
 ---
 # [[Springvale]]
 
+<span class="rightimg"><span class="mediumimg"> ![[springvale.png]]</span></span>
 Hometown of [[Astra]] and Representative [[Zumpetor]]
 
 ## NPC's in Springvale 

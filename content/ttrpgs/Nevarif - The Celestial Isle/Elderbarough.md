@@ -11,9 +11,10 @@ gender:
 class:
 ---
 # [[Elderbarough]]
-
+<span class="rightimg"><span class="mediumimg"> ![[elderbarough.png]]</span></span>
 Hometown of [[Lariel]] and Representative [[Karin]]
 ## NPC's in Elderbarough 
+
 
 | File | Description |
 | ---- | ----------- |

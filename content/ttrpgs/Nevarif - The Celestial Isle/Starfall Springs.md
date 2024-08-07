@@ -1,5 +1,5 @@
 ---
-type: pl
+type: place
 faction: 
 location: 
 world: Nevarif - The Celestial Isle
@@ -12,6 +12,7 @@ class:
 ---
 # [[Starfall Springs]]
 
+<span class="rightimg"><span class="mediumimg"> ![[starfall_springs 1.png]]</span></span>
 Starfall Springs is where our heroes [[Bebe]], [[Lariel]], [[Glacier]], and [[Astra]] met and started their journey.
 
 There is an annual Golden Moon Festival.

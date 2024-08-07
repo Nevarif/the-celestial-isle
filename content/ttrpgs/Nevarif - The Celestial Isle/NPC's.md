@@ -68,7 +68,7 @@ class:
 | File                                                                          | Description |
 | ----------------------------------------------------------------------------- | ----------- |
 | [[ttrpgs/Nevarif - The Celestial Isle/Emperor New Name.md\|Emperor New Name]] |             |
-### [[The Village of Halflings and Kobolds]]
+### [[Half Bold Village]]
 
 | File                                                                      | Description     |
 | ------------------------------------------------------------------------- | --------------- |

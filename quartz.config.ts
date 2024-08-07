@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian", "GM"],
+    ignorePatterns: ["private", "templates", ".obsidian", "ttrpgs/Nevarif - The Celestial Isle/GM"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
