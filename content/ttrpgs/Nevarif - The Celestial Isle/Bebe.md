@@ -10,7 +10,7 @@ race: Half-Orc
 gender: Female
 class: Barbarian
 ---
-# [[Bebe]]
+# Brunhilda "[[Bebe]]" Bonebreaker
 
 From [[BludRock]]
 Is on a quest to make worthy kills

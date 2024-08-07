@@ -8,14 +8,24 @@ date: 2024-07-15
 description: ""
 race: 
 gender: 
-class: 
+class:
 ---
 # [[PC's]]
+<span class="rightimg"><span class="tinyimg"> ![[1581111423-118375931 2.jpeg]]</span></span>
+## [[Glacier]] Icebreaker
 
-```statblock
+Spoiled rich kid, think of himself very wise and all knowing. Seeking enlightenment in very materialistic world
+<br>
+<span class="rightimg"><span class="tinyimg"> ![[1581111423-117462931.jpeg]]</span></span>
+## [[Astra]] Sterling
 
-```
-[![Astra|160](https://www.dndbeyond.com/avatars/39554/979/1581111423-117462931.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)](https://www.dndbeyond.com/characters/117462931) [![Glacier|160](https://www.dndbeyond.com/avatars/40207/914/1581111423-118375931.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp)](https://www.dndbeyond.com/characters/118375931/ZUXEP7)
+Deeply pious and a bit naive goody two shoes moon cleric
+<br>
+<span class="rightimg"><span class="tinyimg"> ![[636377874101155021.jpeg]]</span></span>
+## [[Lariel]] Real
+
+Book smart, know it all stepping into the real world for the first time
+<br>
 
 
 

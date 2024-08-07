@@ -10,7 +10,7 @@ race: Human
 gender: Male
 class: Sorcerer
 ---
-# [[Lariel]]
+# [[Lariel]] Real
 
 From [[Elderbarough]]
 Has a lust for knowledge 

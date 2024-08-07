@@ -10,7 +10,7 @@ race: Tiefling
 gender: Female
 class: Cleric
 ---
-# [[Astra]]
+# [[Astra]] Sterling
 
 From [[Springvale]]
 Is her first time leaving home 
