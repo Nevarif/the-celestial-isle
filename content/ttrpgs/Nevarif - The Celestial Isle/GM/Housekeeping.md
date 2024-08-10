@@ -24,3 +24,11 @@ Apple Login
 ## css image snippet
 
 <span class="rightimg"><span class="smallimg"> ![[Pasted image 20220302055601.png]]</span></span>
+
+leftimg
+rightimg
+centerimg
+tinyimg
+smallimg
+mediumimg
+largeimg

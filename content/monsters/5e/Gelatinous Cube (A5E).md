@@ -15,3 +15,6 @@ tags:
 source: "Monstrous Menagerie"
 url: ""
 ---
+```statblock
+monster: Gelatinous Cube (A5E)
+```

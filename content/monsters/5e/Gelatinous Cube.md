@@ -15,3 +15,6 @@ tags:
 source: "Monster Manual: 242"
 url: ""
 ---
+```statblock
+monster: Gelatinous Cube
+```

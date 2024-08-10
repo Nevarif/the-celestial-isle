@@ -9,6 +9,10 @@ description: Deeply pious and a bit naive goody two shoes moon cleric
 race: Tiefling
 gender: Female
 class: Cleric
+hp: 15
+ac: 12
+modifier: 2
+level: 2
 ---
 # [[Astra]] Sterling
 

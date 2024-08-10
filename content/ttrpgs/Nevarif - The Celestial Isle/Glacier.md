@@ -9,6 +9,10 @@ description: Spoiled rich kid, think of himself very wise and all knowing. Seeki
 race: Dragonborn
 gender: Male
 class: Monk
+hp: 13
+ac: 15
+modifier: 1
+level: 2
 ---
 #  [[Glacier]] Icebreaker
 

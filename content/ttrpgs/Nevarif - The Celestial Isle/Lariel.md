@@ -9,6 +9,10 @@ description: Book smart, know it all stepping into the real world for the first 
 race: Human
 gender: Male
 class: Sorcerer
+hp: 16
+ac: 13
+modifier: 0
+level: 2
 ---
 # [[Lariel]] Real
 

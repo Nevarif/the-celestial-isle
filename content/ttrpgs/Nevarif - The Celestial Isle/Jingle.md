@@ -14,3 +14,5 @@ class: Bard
 
 Jerry "Jingle" Jackson is a gnome bard that travels far and wide for mysterious, rare items. He travels atop his giant space hamster. 
 
+## Store
+

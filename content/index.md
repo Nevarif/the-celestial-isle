@@ -1,7 +1,7 @@
 ---
 title: The Journey Begins
 ---
-[[NPC's]] [[PC's]] [[Maps]]
+[[NPC's]] [[PC's]] [[Maps]] [[Jingle#Store|Jingle Store]]
 
 
  [[Moon Stones]] fly down from the sky to [[Bebe]], [[Lariel]], [[Glacier]], and [[Astra]], individually.

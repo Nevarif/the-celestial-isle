@@ -9,6 +9,10 @@ description: ""
 race: Earth Genasi
 gender: Male
 class: Warlock
+hp: 17
+ac: 10
+modifier: 0
+level: 2
 ---
 # [[Benedil]] Dumster
 
